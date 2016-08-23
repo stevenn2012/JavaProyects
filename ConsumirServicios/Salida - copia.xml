@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<reporteXMLs>
+<cancion idCancion="2">
+<cantante>Linkin Park</cantante>
+<cantidadVendida>1</cantidadVendida>
+<fechaCancion>2001-10-09T00:00:00-05:00</fechaCancion>
+<generoCancion>Rock</generoCancion>
+<nombreAlbum>Hybrid Theory</nombreAlbum>
+<nombreCancion>In the End</nombreCancion>
+</cancion>
+<cancion idCancion="22">
+<cantante>Adele</cantante>
+<cantidadVendida>6</cantidadVendida>
+<fechaCancion>2016-04-23T00:00:00-05:00</fechaCancion>
+<generoCancion>Pop</generoCancion>
+<nombreAlbum>21</nombreAlbum>
+<nombreCancion>Set fire to the rain</nombreCancion>
+</cancion>
+<cancion idCancion="23">
+<cantante>Adele</cantante>
+<cantidadVendida>3</cantidadVendida>
+<fechaCancion>2016-04-23T00:00:00-05:00</fechaCancion>
+<generoCancion>Pop</generoCancion>
+<nombreAlbum>21</nombreAlbum>
+<nombreCancion>Rolling in the deep</nombreCancion>
+</cancion>
+<cancion idCancion="24">
+<cantante>Adele</cantante>
+<cantidadVendida>2</cantidadVendida>
+<fechaCancion>2016-04-23T00:00:00-05:00</fechaCancion>
+<generoCancion>Pop</generoCancion>
+<nombreAlbum>21</nombreAlbum>
+<nombreCancion>Someone like you</nombreCancion>
+</cancion>
+<cancion idCancion="27">
+<cantante>Adele</cantante>
+<cantidadVendida>2</cantidadVendida>
+<fechaCancion>2016-04-23T00:00:00-05:00</fechaCancion>
+<generoCancion>Pop</generoCancion>
+<nombreAlbum>21</nombreAlbum>
+<nombreCancion>Turning Tables</nombreCancion>
+</cancion>
+<cancion idCancion="28">
+<cantante>Linkin Park</cantante>
+<cantidadVendida>2</cantidadVendida>
+<fechaCancion>2016-04-23T00:00:00-05:00</fechaCancion>
+<generoCancion>Rock</generoCancion>
+<nombreAlbum>A Thousand Suns</nombreAlbum>
+<nombreCancion>The Catalyst</nombreCancion>
+</cancion>
+<cancion idCancion="29">
+<cantante>Linkin Park</cantante>
+<cantidadVendida>2</cantidadVendida>
+<fechaCancion>2016-04-23T00:00:00-05:00</fechaCancion>
+<generoCancion>Rock</generoCancion>
+<nombreAlbum>A Thousand Suns</nombreAlbum>
+<nombreCancion>Fallout</nombreCancion>
+</cancion>
+<cancion idCancion="32">
+<cantante>Adele</cantante>
+<cantidadVendida>2</cantidadVendida>
+<fechaCancion>2016-04-23T00:00:00-05:00</fechaCancion>
+<generoCancion>Pop</generoCancion>
+<nombreAlbum>25</nombreAlbum>
+<nombreCancion>Hello</nombreCancion>
+</cancion>
+<cancion idCancion="41">
+<cantante>Adele</cantante>
+<cantidadVendida>1</cantidadVendida>
+<fechaCancion>2016-04-26T00:00:00-05:00</fechaCancion>
+<generoCancion>Pop</generoCancion>
+<nombreAlbum>25</nombreAlbum>
+<nombreCancion>I Miss you</nombreCancion>
+</cancion>
+</reporteXMLs>

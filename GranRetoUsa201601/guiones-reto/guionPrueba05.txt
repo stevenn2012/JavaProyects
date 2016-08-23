@@ -1,0 +1,16 @@
+archivos-datos/Prueba E07.txt;KO;ERROR
+archivos-datos/Prueba 41.txt;OK;151'831.684
+archivos-datos/Prueba 42.txt;OK;5.929
+archivos-datos/Prueba 43.txt;OK;911'194.596
+archivos-datos/Prueba 44.txt;OK;24'960.575,555136006
+archivos-datos/Prueba 45.txt;OK;20'621.044,2816
+archivos-datos/Prueba E08.txt;KO;20'621.044,2816
+archivos-datos/Prueba 46.txt;OK;16'257.024
+archivos-datos/Prueba 47.txt;OK;31'203.396
+archivos-datos/Prueba 48.txt;OK;180'391.761
+archivos-datos/Prueba 49.txt;OK;41'990.400
+archivos-datos/Prueba 50.txt;OK;441
+archivos-datos/Prueba EE01.txt;OK;ERROR
+archivos-datos/Prueba 50.txt;OK;441
+archivos-datos/Prueba EE02.txt;OK;ERROR
+archivos-datos/Prueba 50.txt;OK;441

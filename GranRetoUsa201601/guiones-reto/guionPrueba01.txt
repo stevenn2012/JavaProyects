@@ -1,0 +1,10 @@
+archivos-datos/Prueba 01.txt;OK;-0,367544468
+archivos-datos/Prueba 02.txt;OK;-1,632455532
+archivos-datos/Prueba 03.txt;OK;-0,2098387323
+archivos-datos/Prueba 04.txt;OK;-1,3615898392
+archivos-datos/Prueba 05.txt;OK;-0,367544468
+archivos-datos/Prueba 06.txt;OK;-2,4179593411
+archivos-datos/Prueba 07.txt;OK;-2,1892547876
+archivos-datos/Prueba 08.txt;OK;1,5225881209
+archivos-datos/Prueba 09.txt;OK;0,3596117968
+archivos-datos/Prueba 10.txt;OK;1,3903882032

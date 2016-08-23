@@ -1,0 +1,7 @@
+entrada1.txt;OK;45'345.723,97
+
+entrada2.txt;OK;38,5732019453
+
+entrada3.txt;KO;38,5732019453
+
+entrada4.txt;OK;-63,7

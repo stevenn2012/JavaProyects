@@ -1,0 +1,31 @@
+HTTP/1.1 200 OK
+Server: GlassFish Server Open Source Edition  4.1.1 
+X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition  4.1.1  Java/Oracle Corporation/1.8)
+Server: grizzly/2.3.23
+pragma: no-cache
+
+<HTML lang=es>
+<HEAD>
+<TITLE>OrquestaWS Web Service Tester</TITLE>
+</HEAD>
+<BODY>
+<H1>OrquestaWS Web Service Tester</H1>
+<br>This form will allow you to test your web service implementation (<A HREF="http://DESKTOP-K07SVNL:8080/OrquestaWS/OrquestaWS?WSDL" title="WSDL file describing OrquestaWS web service">WSDL File</A>)<hr>To invoke an operation, fill the method parameter(s) input boxes and click on the button labeled with the method name.<H3>Methods :</H3>
+<FORM METHOD="POST">public abstract java.lang.String web.service.OrquestaWS.recibirCancion(java.lang.String,java.lang.String,java.lang.String,java.lang.String)<BR>
+<INPUT TYPE=SUBMIT NAME=action title="Invoke recibirCancion operation" value=recibirCancion> (<INPUT TYPE=TEXT NAME=PARAMrecibirCancion0 title="recibirCancion parameter of type java.lang.String">,<INPUT TYPE=TEXT NAME=PARAMrecibirCancion1 title="recibirCancion parameter of type java.lang.String">,<INPUT TYPE=TEXT NAME=PARAMrecibirCancion2 title="recibirCancion parameter of type java.lang.String">,<INPUT TYPE=TEXT NAME=PARAMrecibirCancion3 title="recibirCancion parameter of type java.lang.String">)<BR>
+<HR>
+</FORM>
+</BODY>
+</HTML>
+<FORM METHOD="POST">public abstract java.util.List web.service.OrquestaWS.generarReportePopular(java.lang.String,java.lang.String)<BR>
+<INPUT TYPE=SUBMIT NAME=action title="Invoke generarReportePopular operation" value=generarReportePopular> (<INPUT TYPE=TEXT NAME=PARAMgenerarReportePopular0 title="generarReportePopular parameter of type java.lang.String">,<INPUT TYPE=TEXT NAME=PARAMgenerarReportePopular1 title="generarReportePopular parameter of type java.lang.String">)<BR>
+<HR>
+</FORM>
+</BODY>
+</HTML>
+<FORM METHOD="POST">public abstract java.util.List web.service.OrquestaWS.generarReporteFecha(java.lang.String,java.lang.String)<BR>
+<INPUT TYPE=SUBMIT NAME=action title="Invoke generarReporteFecha operation" value=generarReporteFecha> (<INPUT TYPE=TEXT NAME=PARAMgenerarReporteFecha0 title="generarReporteFecha parameter of type java.lang.String">,<INPUT TYPE=TEXT NAME=PARAMgenerarReporteFecha1 title="generarReporteFecha parameter of type java.lang.String">)<BR>
+<HR>
+</FORM>
+</BODY>
+</HTML>

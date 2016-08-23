@@ -1,0 +1,38 @@
+public void imprimirResultado(double resultado){
+		DecimalFormatSymbols formatoDePuntos= new DecimalFormatSymbols();
+		formatoDePuntos.setDecimalSeparator('.');
+		DecimalFormat num = new DecimalFormat("#,###.0000000000");
+		String entrada= num.format(resultado)+"";
+		String salida="";
+		int cont=0;
+		String[] entrada2= entrada.split(",");
+		String[] entrada3= entrada2[0].split("");
+		for(int i=entrada3.length-1; i>=0; i--){
+			if(!entrada3[i].equals(".")){
+				cont=cont+1;
+				salida=entrada3[i]+salida;
+				
+				if(cont==3 && i!=0){
+					salida="."+salida;
+				}
+				else if(cont==6 && i!=0){
+					salida="’"+salida;
+				}
+			}
+		}
+		String numero0[]=entrada2[1].split("");
+		int cont2=0;
+		for(int j=0; j<numero0.length; j++)
+		{
+			if(numero0[j].equals("0")){
+				cont2=cont2+1;
+			}
+		}
+		if(cont2==numero0.length){
+			System.out.println(salida);
+		}
+		else{
+			System.out.println(salida+","+entrada2[1]);
+		}
+		
+	}

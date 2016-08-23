@@ -1,0 +1,1 @@
+GET /TiendaV4/rest/ServicioREST/generarReporte?fechaInicio=2015-08-26&fechaFin=2016-10-11

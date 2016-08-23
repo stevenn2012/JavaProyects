@@ -1,0 +1,12 @@
+archivos-datos/Prueba E03.txt;KO;ERROR
+archivos-datos/Prueba 21.txt;OK;71.934
+archivos-datos/Prueba 22.txt;OK;116'959.512
+archivos-datos/Prueba 23.txt;OK;78'723.844
+archivos-datos/Prueba 24.txt;OK;1'910.728
+archivos-datos/Prueba 25.txt;OK;144'780.155
+archivos-datos/Prueba E04.txt;KO;144'780.155
+archivos-datos/Prueba 26.txt;OK;10'234.931
+archivos-datos/Prueba 27.txt;OK;907.507,231603046
+archivos-datos/Prueba 28.txt;OK;6.331,0242931642
+archivos-datos/Prueba 29.txt;OK;683'437.364
+archivos-datos/Prueba 30.txt;OK;1'352.378

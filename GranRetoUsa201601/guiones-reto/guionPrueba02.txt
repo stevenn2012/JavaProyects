@@ -1,0 +1,12 @@
+archivos-datos/Prueba 11.txt;OK;-0,0904426067
+archivos-datos/Prueba 12.txt;OK;1,4905890059
+archivos-datos/Prueba 13.txt;OK;-1,3525099896
+archivos-datos/Prueba 14.txt;OK;-1.954,636864418
+archivos-datos/Prueba 15.txt;OK;-363'596.168,7811315
+archivos-datos/Prueba E01.txt;KO;-363'596.168,7811315
+archivos-datos/Prueba E02.txt;KO;-363'596.168,7811315
+archivos-datos/Prueba 16.txt;OK;0,0300726251
+archivos-datos/Prueba 17.txt;OK;18,854176324
+archivos-datos/Prueba 18.txt;OK;1.357,5826368625
+archivos-datos/Prueba 19.txt;OK;42,5772373565
+archivos-datos/Prueba 20.txt;OK;-512,9918572189

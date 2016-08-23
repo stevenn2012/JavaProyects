@@ -1,0 +1,3 @@
+Muchas veces nos surge la necesidad de transformar cadenas de texto.
+
+Esto se debe a que las suele introducir el usuario o nos las envían sistemas terceros de los cuales desconocemos su formato.
