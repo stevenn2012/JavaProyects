@@ -1,0 +1,14 @@
+package co.edu.usa.adf.junit;
+
+public class JuegoDeTenis {
+
+	JuegoDeTenis(String string, String string2) {
+		
+	}
+	
+	public String cantar() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
