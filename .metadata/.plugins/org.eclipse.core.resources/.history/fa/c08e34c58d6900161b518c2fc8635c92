@@ -1,0 +1,14 @@
+package co.edu.usa.adf.junit;
+
+public class JuegoDeTenis {
+
+	String x;
+	
+	public JuegoDeTenis(String elQueSirve, String elQueRecibe) {
+		x=elQueSirve;
+	}
+	
+	public String cantar() {
+		return "Sirve "+x;
+	}
+}

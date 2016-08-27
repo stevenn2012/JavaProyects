@@ -1,0 +1,19 @@
+package co.edu.usa.adf.junit;
+
+public class JuegoDeTenis {
+
+	private String elQueSirve;
+	
+	public JuegoDeTenis(String elQueSirve, String elQueRecibe) {
+		this.elQueSirve=elQueSirve;
+	}
+	
+	public String cantar() {
+		return "Sirve "+elQueSirve;
+	}
+
+	public void puntoServidor() {
+		mensaje="Quince - Cero"
+		return null;
+	}
+}

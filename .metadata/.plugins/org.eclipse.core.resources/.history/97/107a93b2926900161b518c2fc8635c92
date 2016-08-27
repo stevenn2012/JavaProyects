@@ -1,0 +1,6 @@
+package co.edu.usa.adf.junit;
+
+public class JuegoTerminadoException implements Exception {
+
+	
+}
