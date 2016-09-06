@@ -11,7 +11,7 @@ public class inicio {
 
 	public static void main(String[] args) {
 		try {
-			tomateContacto();
+			//tomateContacto();
 			tomateEventos();
 		} catch (IOException e) {
 			e.printStackTrace();
@@ -51,7 +51,6 @@ public class inicio {
 	public static void tomateEventos() throws IOException, ClassNotFoundException, InstantiationException, IllegalAccessException, NoSuchMethodException, SecurityException, IllegalArgumentException, InvocationTargetException, ParseException{
 		System.out.println("Leyendo Descriptor...\n");
 		franfid prueba = new franfid("co.edu.usa.adf.Evento");
-		
 		System.out.println("Leyendo Datos...");
 		ArrayList<Object> dats = prueba.leerArchivo("Datos/Archivos/Eventos.txt");
 		System.out.println(dats+"\n");

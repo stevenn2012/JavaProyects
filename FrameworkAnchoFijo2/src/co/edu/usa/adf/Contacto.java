@@ -4,12 +4,12 @@ import Fanfid.FixedWidthField;
 
 public class Contacto{
 
-	@FixedWidthField(width=30) String nombre;
-	@FixedWidthField(width=20) String celular;
-	@FixedWidthField(width=30) String email;
-	@FixedWidthField(width=50) String direccion;
-	@FixedWidthField(width= 3) Integer edad;
-	@FixedWidthField(width=15) long cedula;
+	@FixedWidthField(posicion=0, width=30) String nombre;
+	@FixedWidthField(posicion=1, width=20) String celular;
+	@FixedWidthField(posicion=2, width=30) String email;
+	@FixedWidthField(posicion=3, width=50) String direccion;
+	@FixedWidthField(posicion=4, width= 3) Integer edad;
+	@FixedWidthField(posicion=5, width=15) long cedula;
 	
 	public Contacto() {
 		

@@ -1,0 +1,9 @@
+descriptor:
+	-cada linea comienza con < y luego un espacio
+	-cada linea termina con > y luego un espacio
+	-el nombre de cada etiqueta va al principio y puede ser de tipo Class, Attrib o de cierre /
+		-Class para nombre completamente cualificado 
+			-ejemplo de etiqueta Class: < Class co.edu.usa.adf.Evento >
+		-Atrib para cada atributo-Primero nombre del atributo con inicial Mayuscula, luego tipo de dato, ultimo ancho. Todo separado por espacio
+			-ejemplo etiqueta Attrib: < Attrib Nombre String 30 >
+	-el archivo debe terminar con la etiqueta: < / >

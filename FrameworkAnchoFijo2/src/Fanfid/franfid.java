@@ -23,12 +23,12 @@ public class franfid {
 		this.nombreClase=nombCompCual;
 		Class<?> miClase = Class.forName(nombreClase);
 		for (int i = 0; i < miClase.getDeclaredFields().length; i++) {
-			Annotation anch=miClase.getDeclaredFields()[i].getDeclaredAnnotations()[0];
-			String an=(anch+"").substring(30,((anch+"").length()-1));
 			String nombre=(miClase.getDeclaredFields()[i].getName().charAt(0)+"").toUpperCase()+(miClase.getDeclaredFields()[i].getName().substring(1));
 			String tipo=miClase.getDeclaredFields()[i].getType().getSimpleName();
-			int ancho=Integer.parseInt(an);
-			datosAtributos.put(i, new AtribDat(nombre, tipo, ancho));
+			String dt[] = (miClase.getDeclaredFields()[i].getDeclaredAnnotations()[0]+"").split("=");
+			int posicion=Integer.parseInt(dt[1].substring(0, dt[1].length()-7));
+			int ancho=Integer.parseInt(dt[2].substring(0, dt[2].length()-1));
+			datosAtributos.put(posicion, new AtribDat(nombre, tipo, ancho));
 		}
 	}
 	
