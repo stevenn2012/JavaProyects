@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;co.edu.usa.adf&apos; to &apos;FrameworkAnchoFijo0/src&apos;&#x0D;&#x0A;- Original project: &apos;Framework-ancho-fijo&apos;&#x0D;&#x0A;- Destination element: &apos;FrameworkAnchoFijo0/src&apos;&#x0D;&#x0A;- Original element: &apos;Framework-ancho-fijo/src/co.edu.usa.adf&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=FrameworkAnchoFijo0/src" element1="/src&lt;co.edu.usa.adf" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1473202930292" version="1.0"/>
+</session>
