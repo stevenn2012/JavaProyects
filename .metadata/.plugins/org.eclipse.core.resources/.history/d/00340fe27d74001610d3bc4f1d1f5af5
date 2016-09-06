@@ -2,7 +2,7 @@ package co.edu.usa.adf;
 
 import java.util.Date;
 
-import Fanfia.FixedWidthField;
+import Fanfid.FixedWidthField;
 
 public class Evento {
 	

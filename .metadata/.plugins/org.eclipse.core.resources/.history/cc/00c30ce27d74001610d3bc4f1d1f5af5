@@ -1,6 +1,6 @@
 package co.edu.usa.adf;
 
-import Fanfia.FixedWidthField;
+import Fanfid.FixedWidthField;
 
 public class Contacto{
 
