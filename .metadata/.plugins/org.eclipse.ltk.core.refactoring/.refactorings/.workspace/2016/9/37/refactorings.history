@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;fixed-width-framework&apos;" deleteContents="false" description="Delete resource &apos;fixed-width-framework&apos;" element1="/fixed-width-framework" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1473195826552"/>
+</session>

@@ -1,0 +1,9 @@
+package co.edu.usa.df;
+
+public class inicio {
+
+	public inicio() {
+		franfid prueba = new franfid("");
+	}
+
+}

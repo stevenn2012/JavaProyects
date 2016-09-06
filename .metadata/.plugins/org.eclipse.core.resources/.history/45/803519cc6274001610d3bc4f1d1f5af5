@@ -1,0 +1,14 @@
+package co.edu.usa.adf;
+
+import java.util.Date;
+
+public class Eventos {
+
+	private String nombre;
+	private Date fecha;
+	
+	public Eventos() {
+		
+	}
+
+}

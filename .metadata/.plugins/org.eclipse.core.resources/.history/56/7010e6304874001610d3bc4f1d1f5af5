@@ -1,0 +1,16 @@
+package co.edu.usa.df;
+
+import java.io.IOException;
+
+public class inicio {
+
+	public inicio() {
+		try {
+			franfid prueba = new franfid("");
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+
+}

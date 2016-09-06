@@ -1,0 +1,43 @@
+package co.edu.usa.df;
+
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.HashMap;
+
+public class franfid {
+
+	private String nombreClase;
+	private HashMap<String, AtribDat> datosAtributos = new HashMap<String, AtribDat>();
+	
+	public franfid(String rutaDescriptor) throws IOException{
+		BufferedReader leer = new BufferedReader(new FileReader(rutaDescriptor));
+		String cadena="";
+		while((cadena=leer.readLine())!=null){
+			boolean fin=false;
+			String[] datos = cadena.split(" ");
+			switch (datos[1]) {
+				case "Class":this.nombreClase=datos[2];break;
+				case "Attrib":datosAtributos.put(datos[2], new AtribDat(datos[3], Integer.parseInt(datos[4])));break;
+				case "/":fin=true;break;
+				default:System.out.println("Linea Desconocida en descriptor");;break;
+			}
+			if(fin){break;}
+		}
+		leer.close();
+	}
+	
+	public ArrayList<Object> leerArchivo(String rutaArchivo) throws IOException, ClassNotFoundException{
+		BufferedReader leer = new BufferedReader(new FileReader(rutaArchivo));
+		Class<?> cls = Class.forName(rutaArchivo);
+		
+		String cadena="";
+		while((cadena=leer.readLine())!=null){
+			
+		}
+		leer.close();
+		
+		return null;
+	}
+}

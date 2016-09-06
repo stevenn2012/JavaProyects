@@ -200,3 +200,118 @@ java.lang.NullPointerException
 
 !ENTRY org.eclipse.epp.logging.aeri.ui 2 6 2016-08-30 18:42:54.612
 !MESSAGE Failed to determine ETAG for remote problems database. Stopping update. Version: 1.0.0.v20150617-0732
+!SESSION 2016-09-06 10:10:58.968 -----------------------------------------------
+eclipse.buildId=4.5.0.I20150603-2000
+java.version=1.8.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_CO
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-09-06 10:16:29.344
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Steven'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.epp.logging.aeri.ui 2 23 2016-09-06 10:17:07.257
+!MESSAGE The server availability check failed Version: 1.0.0.v20150617-0732
+!STACK 0
+java.net.UnknownHostException: dev.eclipse.org
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.net.InetAddress$2.lookupAllHostAddr(Unknown Source)
+	at java.net.InetAddress.getAddressesFromNameService(Unknown Source)
+	at java.net.InetAddress.getAllByName0(Unknown Source)
+	at java.net.InetAddress.getAllByName(Unknown Source)
+	at java.net.InetAddress.getAllByName(Unknown Source)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:44)
+	at org.apache.http.impl.conn.HttpClientConnectionOperator.connect(HttpClientConnectionOperator.java:102)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:319)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:363)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:219)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:195)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:86)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:108)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:57)
+	at org.apache.http.client.fluent.Executor.execute(Executor.java:206)
+	at org.eclipse.epp.internal.logging.aeri.ui.log.CheckServerAvailabilityJob.run(CheckServerAvailabilityJob.java:48)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.epp.logging.aeri.ui 2 18 2016-09-06 10:21:03.420
+!MESSAGE Updating the index from remote failed. Version: 1.0.0.v20150617-0732
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.epp.internal.logging.aeri.ui.log.ProblemsDatabaseUpdateJob.getEtag(ProblemsDatabaseUpdateJob.java:95)
+	at org.eclipse.epp.internal.logging.aeri.ui.log.ProblemsDatabaseUpdateJob.run(ProblemsDatabaseUpdateJob.java:58)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.epp.logging.aeri.ui 2 6 2016-09-06 10:21:03.420
+!MESSAGE Failed to determine ETAG for remote problems database. Stopping update. Version: 1.0.0.v20150617-0732
+
+!ENTRY org.eclipse.recommenders.types.rcp 1 3 2016-09-06 10:28:52.066
+!MESSAGE Full project indexing required:
+  [+] D:\Program Files\Java\lib\charsets.jar
+  [+] D:\Program Files\Java\lib\ext\access-bridge-64.jar
+  [+] D:\Program Files\Java\lib\ext\cldrdata.jar
+  [+] D:\Program Files\Java\lib\ext\dnsns.jar
+  [+] D:\Program Files\Java\lib\ext\jaccess.jar
+  [+] D:\Program Files\Java\lib\ext\jfxrt.jar
+  [+] D:\Program Files\Java\lib\ext\localedata.jar
+  [+] D:\Program Files\Java\lib\ext\nashorn.jar
+  [+] D:\Program Files\Java\lib\ext\sunec.jar
+  [+] D:\Program Files\Java\lib\ext\sunjce_provider.jar
+  [+] D:\Program Files\Java\lib\ext\sunmscapi.jar
+  [+] D:\Program Files\Java\lib\ext\sunpkcs11.jar
+  [+] D:\Program Files\Java\lib\ext\zipfs.jar
+  [+] D:\Program Files\Java\lib\jce.jar
+  [+] D:\Program Files\Java\lib\jfr.jar
+  [+] D:\Program Files\Java\lib\jsse.jar
+  [+] D:\Program Files\Java\lib\resources.jar
+  [+] D:\Program Files\Java\lib\rt.jar
+
+!STACK 0
+org.eclipse.recommenders.utils.Logs$LogTraceException
+	at org.eclipse.recommenders.utils.Logs$LogTraceException.newTrace(Logs.java:381)
+	at org.eclipse.recommenders.utils.Logs.log(Logs.java:134)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.needsRebuild(ProjectTypesIndex.java:172)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.startUp(ProjectTypesIndex.java:128)
+	at com.google.common.util.concurrent.AbstractIdleService$2$1.run(AbstractIdleService.java:54)
+	at com.google.common.util.concurrent.Callables$3.run(Callables.java:93)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-09-06 12:51:41.851
+!MESSAGE Can't handle class org.eclipse.jdt.internal.compiler.ast.BinaryExpression as parent of completion location.
+
+!ENTRY org.eclipse.recommenders.types.rcp 1 3 2016-09-06 15:23:31.695
+!MESSAGE Full project indexing required:
+  [+] D:\Program Files\Java\lib\charsets.jar
+  [+] D:\Program Files\Java\lib\ext\access-bridge-64.jar
+  [+] D:\Program Files\Java\lib\ext\cldrdata.jar
+  [+] D:\Program Files\Java\lib\ext\dnsns.jar
+  [+] D:\Program Files\Java\lib\ext\jaccess.jar
+  [+] D:\Program Files\Java\lib\ext\jfxrt.jar
+  [+] D:\Program Files\Java\lib\ext\localedata.jar
+  [+] D:\Program Files\Java\lib\ext\nashorn.jar
+  [+] D:\Program Files\Java\lib\ext\sunec.jar
+  [+] D:\Program Files\Java\lib\ext\sunjce_provider.jar
+  [+] D:\Program Files\Java\lib\ext\sunmscapi.jar
+  [+] D:\Program Files\Java\lib\ext\sunpkcs11.jar
+  [+] D:\Program Files\Java\lib\ext\zipfs.jar
+  [+] D:\Program Files\Java\lib\jce.jar
+  [+] D:\Program Files\Java\lib\jfr.jar
+  [+] D:\Program Files\Java\lib\jsse.jar
+  [+] D:\Program Files\Java\lib\resources.jar
+  [+] D:\Program Files\Java\lib\rt.jar
+
+!STACK 0
+org.eclipse.recommenders.utils.Logs$LogTraceException
+	at org.eclipse.recommenders.utils.Logs$LogTraceException.newTrace(Logs.java:381)
+	at org.eclipse.recommenders.utils.Logs.log(Logs.java:134)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.needsRebuild(ProjectTypesIndex.java:172)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.startUp(ProjectTypesIndex.java:128)
+	at com.google.common.util.concurrent.AbstractIdleService$2$1.run(AbstractIdleService.java:54)
+	at com.google.common.util.concurrent.Callables$3.run(Callables.java:93)
+	at java.lang.Thread.run(Unknown Source)

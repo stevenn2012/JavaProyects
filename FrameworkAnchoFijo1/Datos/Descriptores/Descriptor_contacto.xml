@@ -1,0 +1,8 @@
+< Class co.edu.usa.adf.Contacto >
+< Attrib Nombre String 30 >
+< Attrib Celular String 20 >
+< Attrib Email String 30 >
+< Attrib Direccion String 50 >
+< Attrib Edad Integer 3 >
+< Attrib Cedula long 15 >
+< / >

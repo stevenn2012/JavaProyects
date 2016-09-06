@@ -1,0 +1,8 @@
+package co.edu.usa.df;
+
+public class AtribDat {
+
+	String tipo;
+	int ancho;
+	
+}

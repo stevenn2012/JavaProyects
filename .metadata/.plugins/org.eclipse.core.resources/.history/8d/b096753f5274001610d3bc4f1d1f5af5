@@ -1,0 +1,60 @@
+package co.edu.usa.adf;
+
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
+import java.lang.reflect.InvocationTargetException;
+import java.lang.reflect.Method;
+import java.util.ArrayList;
+import java.util.HashMap;
+
+public class franfid {
+
+	private String nombreClase;
+	private HashMap<Integer, AtribDat> datosAtributos = new HashMap<Integer, AtribDat>();
+	
+	public franfid(String rutaDescriptor) throws IOException{
+		BufferedReader leer = new BufferedReader(new FileReader(rutaDescriptor));
+		String cadena="";
+		while((cadena=leer.readLine())!=null){
+			boolean fin=false;
+			String[] datos = cadena.split(" ");
+			switch (datos[1]) {
+				case "Class":this.nombreClase=datos[2];break;
+				case "Attrib":datosAtributos.put(Integer.parseInt(datos[2]), new AtribDat(datos[3], datos[4], Integer.parseInt(datos[5])));break;
+				case "/":fin=true;break;
+				default:System.out.println("Linea Desconocida en descriptor");;break;
+			}
+			if(fin){break;}
+		}
+		leer.close();
+	}
+	
+	public ArrayList<Object> leerArchivo(String rutaArchivo) throws IOException, ClassNotFoundException, InstantiationException, IllegalAccessException, NoSuchMethodException, SecurityException, IllegalArgumentException, InvocationTargetException{
+		ArrayList<Object> datos = new ArrayList<Object>();
+		
+		BufferedReader leer = new BufferedReader(new FileReader(rutaArchivo));
+		Class<?> cls = Class.forName(nombreClase);
+		
+		String cadena="";
+		while((cadena=leer.readLine())!=null){
+			Object inst = cls.newInstance();
+			int indexAtrib = cls.getDeclaredFields().length;
+			for (int i = 0; i < indexAtrib; i++) {
+				AtribDat datos = datosAtributos.get(i);
+				Method m = cls.getMethod(getMethodName(""), getClass(""));
+				m.invoke(inst, "");
+			}
+		}
+		leer.close();
+		return null;
+	}
+	
+	public Class<?> getClass(String tipo){
+		return null;
+	}
+	
+	public String getMethodName(String nombreAtributo){
+		return nombreAtributo;
+	}
+}

@@ -1,0 +1,11 @@
+package co.edu.usa.adf;
+
+public class Eventos {
+
+	private Date fecha;
+	
+	public Eventos() {
+		
+	}
+
+}

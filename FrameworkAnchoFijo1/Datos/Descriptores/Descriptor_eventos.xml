@@ -1,0 +1,5 @@
+< Class co.edu.usa.adf.Evento >
+< Attrib Nombre String 30 >
+< Attrib Fecha Date 10 >
+< Attrib Descripcion String 30 >
+< / >

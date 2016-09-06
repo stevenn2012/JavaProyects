@@ -1,0 +1,9 @@
+package co.edu.usa.df;
+
+public class franfid {
+
+	public franfid() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

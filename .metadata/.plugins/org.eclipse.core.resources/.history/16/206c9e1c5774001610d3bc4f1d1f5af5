@@ -1,0 +1,96 @@
+package co.edu.usa.adf;
+
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
+import java.lang.reflect.InvocationTargetException;
+import java.lang.reflect.Method;
+import java.util.ArrayList;
+import java.util.HashMap;
+
+public class franfid {
+
+	private String nombreClase;
+	private HashMap<Integer, AtribDat> datosAtributos = new HashMap<Integer, AtribDat>();
+	
+	public franfid(String rutaDescriptor) throws IOException{
+		BufferedReader leer = new BufferedReader(new FileReader(rutaDescriptor));
+		String cadena="";
+		while((cadena=leer.readLine())!=null){
+			boolean fin=false;
+			String[] datos = cadena.split(" ");
+			switch (datos[1]) {
+				case "Class":this.nombreClase=datos[2];break;
+				case "Attrib":datosAtributos.put(Integer.parseInt(datos[2]), new AtribDat(datos[3], datos[4], Integer.parseInt(datos[5])));break;
+				case "/":fin=true;break;
+				default:System.out.println("Linea Desconocida en descriptor");;break;
+			}
+			if(fin){break;}
+		}
+		leer.close();
+	}
+	
+	public ArrayList<Object> leerArchivo(String rutaArchivo) throws IOException, ClassNotFoundException, InstantiationException, IllegalAccessException, NoSuchMethodException, SecurityException, IllegalArgumentException, InvocationTargetException{
+		ArrayList<Object> datos = new ArrayList<Object>();
+		BufferedReader leer = new BufferedReader(new FileReader(rutaArchivo));
+		Class<?> cls = Class.forName(nombreClase);
+		String cadena="";
+		while((cadena=leer.readLine())!=null){
+			Object inst = cls.newInstance();
+			int indexAtrib = cls.getDeclaredFields().length;
+			for (int i = 0; i < indexAtrib; i++) {
+				AtribDat datAtrib = datosAtributos.get(i);
+				Object info = cadena.substring(0, datAtrib.getAncho()-1).trim();
+				cadena= cadena.substring(datAtrib.getAncho());
+				Class<?> atribClass = getClass(datAtrib.getTipo());
+				Method m = cls.getMethod("set"+datAtrib.getNombre(), atribClass);
+				m.invoke(inst, info);
+			}
+			datos.add(inst);
+		}
+		leer.close();
+		return datos;
+	}
+	
+	public Class<?> getClass(String tipo){
+		Class<?> cls = null;
+		if(tipo.equalsIgnoreCase("boolean")){
+			cls = boolean.class;
+		}
+		
+		if(tipo.equalsIgnoreCase("int")){
+			cls = int.class;
+		}
+		
+		if(tipo.equalsIgnoreCase("integer")){
+			cls = java.lang.Integer.class;
+		}
+		
+		if(tipo.equalsIgnoreCase("long")){
+			cls = long.class;
+		}
+		
+		if(tipo.equalsIgnoreCase("char")){
+			cls = char.class;
+		}
+		
+		if(tipo.equalsIgnoreCase("string")){
+			cls = java.lang.String.class;
+		}
+		
+		if(tipo.equalsIgnoreCase("double")){
+			cls = double.class;
+		}
+		
+		if(tipo.equalsIgnoreCase("float")){
+			cls = float.class;
+		}
+		
+		if(tipo.equalsIgnoreCase("float")){
+			cls = float.class;
+		}
+		return cls;
+	}
+
+	
+}

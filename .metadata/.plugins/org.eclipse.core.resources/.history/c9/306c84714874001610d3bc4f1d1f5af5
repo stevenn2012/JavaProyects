@@ -1,0 +1,15 @@
+package co.edu.usa.df;
+
+import java.io.IOException;
+
+public class inicio {
+
+	public inicio() {
+		try {
+			franfid prueba = new franfid("Datos/Descriptores/Descriptor_contacto.xml");
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+	}
+
+}
