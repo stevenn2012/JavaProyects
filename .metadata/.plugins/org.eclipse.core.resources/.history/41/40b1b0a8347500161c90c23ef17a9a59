@@ -1,0 +1,7 @@
+< Leer Datos/Archivos/Eventos.txt >
+< Guardar Datosk.txt >
+< Class co.edu.usa.adf.Evento >
+< Attrib Nombre String 30 >
+< Attrib Fecha Date 10 >
+< Attrib Descripcion String 30 >
+< / >

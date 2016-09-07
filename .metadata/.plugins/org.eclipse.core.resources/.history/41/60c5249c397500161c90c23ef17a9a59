@@ -1,0 +1,60 @@
+
+public class Serie {
+	
+	private String nombre;
+	private String nombreAutor;
+	private String apellidoAutor;
+	private int year;
+	private double puntaje;
+	
+	public Serie(){
+		
+	}
+
+	public String getNombre() {
+		return nombre;
+	}
+
+	public void setNombre(String nombre) {
+		this.nombre = nombre;
+	}
+
+	public String getNombreAutor() {
+		return nombreAutor;
+	}
+
+	public void setNombreAutor(String nombreAutor) {
+		this.nombreAutor = nombreAutor;
+	}
+
+	public String getApellidoAutor() {
+		return apellidoAutor;
+	}
+
+	public void setApellidoAutor(String apellidoAutor) {
+		this.apellidoAutor = apellidoAutor;
+	}
+
+	public int getYear() {
+		return year;
+	}
+
+	public void setYear(int year) {
+		this.year = year;
+	}
+
+	public double getPuntaje() {
+		return puntaje;
+	}
+
+	public void setPuntaje(double puntaje) {
+		this.puntaje = puntaje;
+	}
+
+	@Override
+	public String toString() {
+		return "Serie [nombre=" + nombre + ", nombreAutor=" + nombreAutor + ", apellidoAutor=" + apellidoAutor
+				+ ", year=" + year + ", puntaje=" + puntaje + "]";
+	}
+
+}
