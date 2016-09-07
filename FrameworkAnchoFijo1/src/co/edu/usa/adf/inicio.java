@@ -39,11 +39,10 @@ public class inicio {
 		franfid prueba = new franfid("Datos/Descriptores/Descriptor_contacto.xml");
 		
 		System.out.println("Leyendo Datos...");
-		ArrayList<Object> dats = prueba.leerArchivo("Datos/Archivos/Contactos.txt");
-		System.out.println(dats+"\n");
+		System.out.println(prueba.leerArchivo());
 		
 		System.out.println("Guardando Datos...");
-		prueba.escribirArchivo("datos.txt", dats);
+		prueba.escribirArchivo();
 		
 		System.out.println("-----------------------------------------------");
 	}
@@ -53,11 +52,11 @@ public class inicio {
 		franfid prueba = new franfid("Datos/Descriptores/Descriptor_eventos.xml");
 		
 		System.out.println("Leyendo Datos...");
-		ArrayList<Object> dats = prueba.leerArchivo("Datos/Archivos/Eventos.txt");
-		System.out.println(dats+"\n");
+		System.out.println(prueba.leerArchivo());
 		
 		System.out.println("Guardando Datos...");
-		prueba.escribirArchivo("datosE.txt", dats);
+		prueba.escribirArchivo();
+		
 		System.out.println("-----------------------------------------------");
 	}
 }

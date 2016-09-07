@@ -17,10 +17,17 @@ import java.util.HashMap;
 public class franfia {
 
 	private String nombreClase;
+	private String rutaArchivo;
+	private String rutaGuardar;
 	private HashMap<Integer, AtribDat> datosAtributos = new HashMap<Integer, AtribDat>();
+	private ArrayList<Object> datos = new ArrayList<Object>();
 	
-	public franfia(String nombCompCual) throws IOException, ClassNotFoundException{
-		this.nombreClase=nombCompCual;
+	public franfia(String rutaDescriptor) throws IOException, ClassNotFoundException{
+		BufferedReader leer= new BufferedReader(new FileReader(rutaDescriptor));
+			this.nombreClase=leer.readLine();
+			this.rutaArchivo=leer.readLine();
+			this.rutaGuardar=leer.readLine();
+		leer.close();
 		Class<?> miClase = Class.forName(nombreClase);
 		for (int i = 0; i < miClase.getDeclaredFields().length; i++) {
 			String nombre=(miClase.getDeclaredFields()[i].getName().charAt(0)+"").toUpperCase()+(miClase.getDeclaredFields()[i].getName().substring(1));
@@ -32,7 +39,7 @@ public class franfia {
 		}
 	}
 	
-	public ArrayList<Object> leerArchivo(String rutaArchivo) throws IOException, ClassNotFoundException, InstantiationException, IllegalAccessException, NoSuchMethodException, SecurityException, IllegalArgumentException, InvocationTargetException, ParseException{
+	public ArrayList<Object> leerArchivo() throws IOException, ClassNotFoundException, InstantiationException, IllegalAccessException, NoSuchMethodException, SecurityException, IllegalArgumentException, InvocationTargetException, ParseException{
 		ArrayList<Object> datos = new ArrayList<Object>();
 		BufferedReader leer = new BufferedReader(new FileReader(rutaArchivo));
 		Class<?> cls = Class.forName(nombreClase);
@@ -56,6 +63,7 @@ public class franfia {
 			datos.add(inst);
 		}
 		leer.close();
+		this.datos=datos;
 		return datos;
 	}
 	
@@ -136,10 +144,10 @@ public class franfia {
 		}
 	}
 
-	public void escribirArchivo(String rutaArchivo, ArrayList<Object>datos) throws IOException, NoSuchMethodException, SecurityException, ClassNotFoundException, IllegalAccessException, IllegalArgumentException, InvocationTargetException{
+	public void escribirArchivo() throws IOException, NoSuchMethodException, SecurityException, ClassNotFoundException, IllegalAccessException, IllegalArgumentException, InvocationTargetException{
 		datos=reordenarArray(datos);
 		Class<?> cls = Class.forName(nombreClase);
-		BufferedWriter escribir = new BufferedWriter(new FileWriter(rutaArchivo));
+		BufferedWriter escribir = new BufferedWriter(new FileWriter(rutaGuardar));
 			for (int i = 0; i < datos.size(); i++) {
 				String info="";
 				for (int j = 0; j < datosAtributos.size(); j++) {
@@ -164,5 +172,13 @@ public class franfia {
 			datos.add(datos.remove(i));
 		}
 		return datos;
+	}
+
+	public ArrayList<Object> getDatos() {
+		return datos;
+	}
+
+	public void setDatos(ArrayList<Object> datos) {
+		this.datos = datos;
 	}
 }

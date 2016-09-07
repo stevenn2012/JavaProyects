@@ -1,0 +1,14 @@
+Black Swan                    2010/12/17      8.0 false
+Inside Out                    2015/06/18      8.3 true 
+Wall-E                        2008/06/27      8.4 true 
+The Revenant                  2016/02/04      8.1 false
+Spotlight                     2015/11/25      8.1 true 
+Easy A                        2010/09/17      7.1 false
+Spirited Away                 2001/11/07      8.6 true 
+Joy                           2016/01/07      6.6 false
+Ex Machina                    2015/01/21      7.7 false
+Carol                         2015/02/04      7.3 false
+The Danish Girl               2015/01/01      7.0 false
+The Theory of Everything      2015/01/08      7.7 false
+Mad Max: Fury Road            2015/05/14      8.1 false
+The Godfather                 1972/03/24      9.2 true 

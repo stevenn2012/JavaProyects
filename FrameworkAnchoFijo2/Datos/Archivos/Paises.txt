@@ -1,0 +1,9 @@
+Colombia      Bogota        
+Peru          Lima          
+Argentina     Buenos Aires  
+Chile         Santiago      
+Brasil        Brasilia      
+Ecuador       Quito         
+Venezuela     Caracas       
+Japon         Tokio         
+China         Pekin         

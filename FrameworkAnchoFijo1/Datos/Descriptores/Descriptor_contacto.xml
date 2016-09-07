@@ -1,3 +1,5 @@
+< Guardar datos2.txt >
+< Leer Datos/Archivos/Contactos.txt >
 < Class co.edu.usa.adf.Contacto >
 < Attrib Nombre String 30 >
 < Attrib Celular String 20 >
