@@ -5,6 +5,9 @@
 		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\xampp\htdocs\Proyects\Maven Proyects\OverClass"/>
+			<item value="C:\xampp\htdocs\Proyects\Maven Proyects\NoMansClass"/>
+			<item value="C:\xampp\htdocs\Proyects\JavaProyects\FrameworkAnchoFijo1"/>
 			<item value="C:\xampp\htdocs\Proyects\JavaProyects\Framework-Anotations"/>
 			<item value="C:\xampp\htdocs\Proyects\JavaProyects\fixed-width-framework"/>
 			<item value="C:\xampp\htdocs\Proyects\JavaProyects\Framework-ancho-fijo"/>
@@ -14,5 +17,9 @@
 		</list>
 	</section>
 	<section name="NewWizardAction">
+		<item value="org.eclipse.m2e.core.wizards.Maven2ProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.m2e"/>
+		</list>
 	</section>
 </section>

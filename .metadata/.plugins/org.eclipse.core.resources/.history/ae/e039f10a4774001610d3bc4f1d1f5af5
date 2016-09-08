@@ -1,9 +1,0 @@
-package co.edu.usa.df;
-
-public class AtribDat {
-
-	public AtribDat() {
-		// TODO Auto-generated constructor stub
-	}
-
-}

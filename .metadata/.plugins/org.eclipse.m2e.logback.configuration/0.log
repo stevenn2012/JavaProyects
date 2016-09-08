@@ -962,3 +962,827 @@
 2016-09-07 19:21:34,172 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Tienda-Vaadin\Tienda-Vaadin\src\main\resources
 2016-09-07 19:21:34,175 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-09-07 19:21:34,176 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Tienda-Vaadin\Tienda-Vaadin\src\test\resources
+2016-09-07 21:45:54,796 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 21:45:54,825 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 21:45:54,829 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 21:45:54,830 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 21:46:10,069 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 21:46:10,072 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Tienda-Vaadin\Tienda-Vaadin\src\main\resources
+2016-09-07 21:46:10,082 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 21:46:10,083 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Tienda-Vaadin\Tienda-Vaadin\src\test\resources
+2016-09-07 21:47:16,350 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 21:47:16,350 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Tienda-Vaadin\Tienda-Vaadin\src\main\resources
+2016-09-07 21:47:16,361 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 21:47:16,362 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Tienda-Vaadin\Tienda-Vaadin\src\test\resources
+2016-09-07 21:47:37,502 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 21:47:37,502 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Tienda-Vaadin\Tienda-Vaadin\src\main\resources
+2016-09-07 21:47:37,505 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 21:47:37,506 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Tienda-Vaadin\Tienda-Vaadin\src\test\resources
+2016-09-07 21:48:11,750 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 21:48:11,760 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Tienda-Vaadin\Tienda-Vaadin\src\main\resources
+2016-09-07 21:48:11,763 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 21:48:11,763 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Tienda-Vaadin\Tienda-Vaadin\src\test\resources
+2016-09-07 21:48:22,828 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 21:48:22,829 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Tienda-Vaadin\Tienda-Vaadin\src\main\resources
+2016-09-07 21:48:22,941 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 21:48:22,942 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Tienda-Vaadin\Tienda-Vaadin\src\test\resources
+2016-09-07 21:52:22,321 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 21:52:22,322 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Tienda-Vaadin\Tienda-Vaadin\src\main\resources
+2016-09-07 21:52:22,326 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 21:52:22,327 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Tienda-Vaadin\Tienda-Vaadin\src\test\resources
+2016-09-07 21:53:49,443 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 21:53:49,446 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 21:53:49,487 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 21:53:49,488 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 21:53:56,850 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 21:53:56,851 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 21:53:56,855 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 21:53:56,856 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 21:54:37,080 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 21:54:37,099 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 21:54:37,101 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 21:54:37,102 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 21:54:42,437 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 21:54:42,440 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 21:54:42,451 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 21:54:42,455 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 21:55:31,842 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 21:55:31,843 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 21:55:31,869 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 21:55:31,875 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 21:56:47,203 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 21:56:47,205 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Tienda-Vaadin\Tienda-Vaadin\src\main\resources
+2016-09-07 21:56:47,225 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 21:56:47,226 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Tienda-Vaadin\Tienda-Vaadin\src\test\resources
+2016-09-07 21:58:00,850 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 21:58:00,851 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 21:58:00,853 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 21:58:00,856 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:00:16,574 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:00:16,575 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:00:16,578 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:00:16,579 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:01:02,900 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:01:02,900 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:01:02,905 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:01:02,905 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:01:09,007 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:01:09,008 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:01:09,035 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:01:09,036 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:03:40,765 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:03:40,765 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:03:40,767 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:03:40,768 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:04:16,915 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:04:16,915 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:04:16,917 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:04:16,918 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:04:56,927 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:04:56,928 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:04:56,929 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:04:56,930 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:05:10,302 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:05:10,303 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:05:10,306 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:05:10,306 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:05:32,639 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:05:32,640 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:05:32,642 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:05:32,643 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:05:42,449 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:05:42,450 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Tienda-Vaadin\Tienda-Vaadin\src\main\resources
+2016-09-07 22:05:42,452 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:05:42,453 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Tienda-Vaadin\Tienda-Vaadin\src\test\resources
+2016-09-07 22:07:44,556 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:07:44,556 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Tienda-Vaadin\Tienda-Vaadin\src\main\resources
+2016-09-07 22:07:44,558 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:07:44,559 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Tienda-Vaadin\Tienda-Vaadin\src\test\resources
+2016-09-07 22:12:05,220 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:12:05,221 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Tienda-Vaadin\Tienda-Vaadin\src\main\resources
+2016-09-07 22:12:05,223 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:12:05,224 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Tienda-Vaadin\Tienda-Vaadin\src\test\resources
+2016-09-07 22:12:33,216 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:12:33,217 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Tienda-Vaadin\Tienda-Vaadin\src\main\resources
+2016-09-07 22:12:33,219 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:12:33,220 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Tienda-Vaadin\Tienda-Vaadin\src\test\resources
+2016-09-07 22:13:56,507 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:13:56,508 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:13:56,510 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:13:56,511 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:14:09,730 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:14:09,730 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:14:09,740 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:14:09,740 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:14:18,341 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:14:18,344 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:14:18,360 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:14:18,361 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:17:01,698 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:17:01,698 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:17:01,701 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:17:01,701 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:19:43,431 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:19:43,431 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:19:43,433 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:19:43,434 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:21:34,656 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:21:34,656 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:21:34,658 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:21:34,659 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:21:46,172 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:21:46,173 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:21:46,176 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:21:46,177 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:22:23,816 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:22:23,817 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:22:23,819 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:22:23,819 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:22:56,809 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:22:56,810 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:22:56,812 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:22:56,813 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:23:21,790 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:23:21,791 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:23:21,793 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:23:21,793 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:23:59,429 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:23:59,430 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:23:59,438 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:23:59,438 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:24:07,379 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:24:07,380 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:24:07,384 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:24:07,384 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:24:23,489 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:24:23,490 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:24:23,492 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:24:23,492 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:24:44,882 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:24:44,882 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:24:44,884 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:24:44,884 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:24:51,714 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:24:51,714 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:24:51,733 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:24:51,737 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:25:59,865 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:25:59,866 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:25:59,869 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:25:59,870 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:26:41,080 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:26:41,081 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:26:41,083 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:26:41,084 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:27:00,630 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:27:00,630 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:27:00,632 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:27:00,632 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:28:06,177 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:28:06,185 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:28:06,196 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:28:06,196 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:28:17,749 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:28:17,750 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:28:17,753 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:28:17,753 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:29:26,640 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:29:26,641 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:29:26,645 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:29:26,657 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:31:02,599 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:31:02,600 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:31:02,602 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:31:02,602 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:31:17,164 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:31:17,165 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:31:17,172 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:31:17,173 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:32:41,508 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:32:41,508 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:32:41,510 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:32:41,510 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:33:07,098 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:33:07,099 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:33:07,102 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:33:07,102 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:35:01,574 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:35:01,574 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:35:01,581 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:35:01,582 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:35:09,116 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:35:09,117 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:35:09,120 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:35:09,120 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:35:20,791 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:35:20,792 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:35:20,804 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:35:20,805 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:37:11,863 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:37:11,863 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:37:11,865 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:37:11,866 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:38:10,694 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:38:10,694 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:38:10,697 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:38:10,707 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:39:11,335 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:39:11,336 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:39:11,389 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:39:11,389 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:40:56,331 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:40:56,332 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:40:56,333 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:40:56,334 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:41:15,223 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:41:15,224 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:41:15,233 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:41:15,233 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:42:41,710 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:42:41,711 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:42:41,715 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:42:41,716 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:43:18,907 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:43:18,908 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:43:18,911 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:43:18,912 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:43:26,307 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:43:26,307 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:43:26,309 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:43:26,309 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:44:31,752 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:44:31,753 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:44:31,756 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:44:31,756 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:44:53,231 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:44:53,231 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:44:53,233 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:44:53,234 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:45:30,232 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:45:30,233 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:45:30,235 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:45:30,235 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:45:38,818 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:45:38,819 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:45:38,821 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:45:38,821 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:46:00,919 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:46:00,920 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:46:00,921 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:46:00,922 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:46:07,542 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:46:07,542 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:46:07,544 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:46:07,545 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:47:09,863 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:47:09,863 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:47:09,865 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:47:09,865 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:48:03,964 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:48:03,965 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:48:03,967 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:48:03,967 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:48:25,542 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:48:25,543 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:48:25,546 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:48:25,546 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:48:32,729 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:48:32,729 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:48:32,731 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:48:32,731 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:49:59,206 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:49:59,207 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:49:59,210 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:49:59,211 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:50:55,794 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:50:55,795 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:50:55,797 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:50:55,798 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:51:21,255 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:51:21,256 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:51:21,258 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:51:21,259 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:51:51,346 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:51:51,347 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:51:51,355 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:51:51,360 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:52:00,456 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:52:00,456 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:52:00,459 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:52:00,459 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:52:30,649 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:52:30,650 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:52:30,651 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:52:30,652 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:52:45,199 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:52:45,199 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:52:45,201 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:52:45,201 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:53:06,260 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:53:06,260 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:53:06,263 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:53:06,263 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:53:26,474 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:53:26,475 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:53:26,478 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:53:26,479 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:53:36,952 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:53:36,953 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:53:36,955 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:53:36,956 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:53:51,769 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:53:51,770 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:53:51,773 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:53:51,774 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:53:57,956 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:53:57,956 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:53:57,957 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:53:57,958 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:54:33,045 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:54:33,046 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:54:33,049 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:54:33,050 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:54:41,587 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:54:41,587 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:54:41,589 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:54:41,589 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:55:09,954 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:55:09,955 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:55:09,957 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:55:09,958 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:55:57,407 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:55:57,407 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:55:57,409 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:55:57,409 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:56:20,177 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:56:20,178 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:56:20,180 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:56:20,181 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:56:36,263 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:56:36,263 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:56:36,265 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:56:36,265 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:56:42,213 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:56:42,214 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:56:42,254 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:56:42,254 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:57:03,648 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:57:03,648 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:57:03,651 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:57:03,652 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:57:34,836 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:57:34,837 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:57:34,839 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:57:34,839 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:58:53,117 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:58:53,117 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:58:53,120 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:58:53,120 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 22:59:04,190 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:59:04,190 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 22:59:04,192 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 22:59:04,192 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:00:36,434 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:00:36,435 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:00:36,455 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:00:36,456 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:00:58,240 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:00:58,240 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:00:58,242 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:00:58,243 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:01:04,579 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:01:04,579 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:01:04,582 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:01:04,582 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:02:18,163 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:02:18,164 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:02:18,174 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:02:18,174 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:02:53,085 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:02:53,085 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:02:53,087 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:02:53,087 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:02:56,535 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:02:56,536 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:02:56,538 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:02:56,538 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:03:04,867 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:03:04,868 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:03:04,870 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:03:04,870 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:03:15,885 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:03:15,886 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:03:15,899 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:03:15,899 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:03:19,085 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:03:19,086 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:03:19,088 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:03:19,088 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:03:33,393 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:03:33,393 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:03:33,395 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:03:33,396 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:03:47,157 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:03:47,158 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:03:47,160 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:03:47,160 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:03:49,290 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:03:49,291 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:03:49,294 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:03:49,294 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:04:02,441 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:04:02,442 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:04:02,444 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:04:02,444 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:04:29,367 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:04:29,368 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:04:29,370 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:04:29,370 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:04:44,487 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:04:44,487 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:04:44,489 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:04:44,490 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:04:47,694 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:04:47,695 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:04:47,700 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:04:47,701 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:04:52,895 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:04:52,895 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:04:52,898 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:04:52,898 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:04:54,558 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:04:54,559 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:04:54,560 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:04:54,560 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:05:00,934 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:05:00,934 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:05:00,937 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:05:00,937 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:05:07,990 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:05:07,991 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:05:07,993 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:05:07,994 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:05:21,183 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:05:21,183 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:05:21,185 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:05:21,185 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:05:27,605 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:05:27,605 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:05:27,608 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:05:27,608 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:05:31,508 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:05:31,508 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:05:31,511 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:05:31,511 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:05:39,285 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:05:39,285 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:05:39,287 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:05:39,288 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:05:45,661 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:05:45,661 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:05:45,664 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:05:45,665 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:05:52,224 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:05:52,225 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:05:52,227 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:05:52,227 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:05:54,279 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:05:54,279 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:05:54,281 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:05:54,281 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:06:01,017 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:06:01,018 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:06:01,021 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:06:01,021 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:06:15,887 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:06:15,887 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:06:15,889 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:06:15,889 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:06:37,887 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:06:37,888 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:06:37,890 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:06:37,890 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:06:44,545 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:06:44,546 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:06:44,549 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:06:44,549 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:07:38,660 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:07:38,661 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:07:38,664 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:07:38,665 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:07:43,107 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:07:43,107 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:07:43,110 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:07:43,110 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:07:45,489 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:07:45,490 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:07:45,491 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:07:45,492 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:08:51,775 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:08:51,776 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:08:51,779 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:08:51,779 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:09:08,573 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:09:08,574 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:09:08,576 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:09:08,576 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:09:11,407 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:09:11,407 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:09:11,408 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:09:11,409 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:09:46,831 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:09:46,832 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:09:46,834 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:09:46,834 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:09:48,876 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:09:48,876 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:09:48,878 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:09:48,879 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:09:59,318 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:09:59,319 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:09:59,320 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:09:59,321 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:10:03,395 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:10:03,395 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:10:03,398 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:10:03,399 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:10:41,405 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:10:41,406 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:10:41,409 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:10:41,409 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:10:45,596 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:10:45,597 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:10:45,599 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:10:45,600 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:11:24,605 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:11:24,605 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:11:24,608 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:11:24,608 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:11:42,379 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:11:42,379 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:11:42,381 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:11:42,382 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:11:57,619 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:11:57,619 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:11:57,622 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:11:57,623 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:12:00,586 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:12:00,587 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:12:00,589 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:12:00,589 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:12:10,815 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:12:10,816 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:12:10,818 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:12:10,818 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:12:19,370 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:12:19,370 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:12:19,372 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:12:19,372 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:12:57,757 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:12:57,763 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:12:57,765 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:12:57,765 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:14:52,639 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:14:52,639 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:14:52,641 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:14:52,641 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:15:53,601 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:15:53,602 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:15:53,605 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:15:53,605 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:16:09,086 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:16:09,086 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:16:09,088 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:16:09,088 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:16:17,193 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:16:17,194 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:16:17,196 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:16:17,196 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:16:53,735 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:16:53,735 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:16:53,736 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:16:53,737 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:17:50,241 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:17:50,242 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:17:50,243 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:17:50,243 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:18:27,134 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:18:27,135 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:18:27,137 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:18:27,137 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:18:40,253 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:18:40,253 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:18:40,256 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:18:40,256 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:18:50,635 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:18:50,636 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:18:50,638 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:18:50,638 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:20:22,999 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:20:22,999 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:20:23,001 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:20:23,001 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:20:27,585 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:20:27,585 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:20:27,587 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:20:27,588 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:22:21,295 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:22:21,296 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:22:21,299 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:22:21,299 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:22:29,350 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:22:29,351 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:22:29,353 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:22:29,354 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:22:58,846 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:22:58,847 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:22:58,848 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:22:58,849 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:23:04,216 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:23:04,216 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:23:04,218 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:23:04,218 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:23:07,757 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:23:07,758 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:23:07,760 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:23:07,760 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:25:18,256 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:25:18,258 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:25:18,259 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:25:18,260 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:25:27,540 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:25:27,540 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:25:27,542 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:25:27,543 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:26:06,637 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:26:06,637 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:26:06,639 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:26:06,640 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:26:53,363 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:26:53,364 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:26:53,366 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:26:53,367 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:27:35,530 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:27:35,531 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:27:35,532 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:27:35,533 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:27:50,086 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:27:50,087 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:27:50,089 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:27:50,090 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:27:56,678 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:27:56,678 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:27:56,680 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:27:56,681 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:29:10,767 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:29:10,767 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:29:10,770 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:29:10,771 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:30:57,658 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:30:57,659 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:30:57,661 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:30:57,661 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:31:04,648 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:31:04,649 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:31:04,669 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:31:04,669 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:31:26,953 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:31:26,954 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:31:26,956 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:31:26,956 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:31:32,422 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:31:32,423 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:31:32,425 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:31:32,426 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:33:35,289 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:33:35,289 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:33:35,291 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:33:35,292 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:36:01,785 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:36:01,785 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:36:01,786 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:36:01,787 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:36:07,305 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:36:07,306 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:36:07,308 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:36:07,308 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:36:23,644 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:36:23,646 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:36:23,648 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:36:23,648 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:36:55,792 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:36:55,792 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Tienda-Vaadin\Tienda-Vaadin\src\main\resources
+2016-09-07 23:36:55,794 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:36:55,794 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Tienda-Vaadin\Tienda-Vaadin\src\test\resources
+2016-09-07 23:36:58,164 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:36:58,165 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Tienda-Vaadin\Tienda-Vaadin\src\main\resources
+2016-09-07 23:36:58,166 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:36:58,167 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Tienda-Vaadin\Tienda-Vaadin\src\test\resources
+2016-09-07 23:45:36,121 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:45:36,121 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:45:36,124 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:45:36,125 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:45:42,425 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:45:42,426 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:45:42,428 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:45:42,429 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:46:28,145 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:46:28,145 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:46:28,146 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:46:28,147 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:47:01,462 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:47:01,462 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:47:01,464 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:47:01,464 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:47:45,725 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:47:45,725 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:47:45,726 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:47:45,727 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:48:07,739 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:48:07,740 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:48:07,741 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:48:07,741 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:48:14,471 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:48:14,472 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:48:14,474 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:48:14,475 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:48:27,144 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:48:27,144 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:48:27,147 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:48:27,147 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:48:44,385 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:48:44,393 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:48:44,395 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:48:44,395 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:49:24,289 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:49:24,290 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:49:24,292 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:49:24,292 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:50:00,160 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:50:00,160 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Tienda-Vaadin\Tienda-Vaadin\src\main\resources
+2016-09-07 23:50:00,162 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:50:00,162 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Tienda-Vaadin\Tienda-Vaadin\src\test\resources
+2016-09-07 23:50:01,237 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:50:01,238 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:50:01,241 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:50:01,241 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:50:47,817 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:50:47,817 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:50:47,842 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:50:47,842 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:52:47,185 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:52:47,186 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:52:47,188 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:52:47,189 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:52:50,896 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:52:50,896 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:52:50,898 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:52:50,898 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-07 23:56:30,788 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:56:30,788 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-07 23:56:30,790 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 23:56:30,790 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-08 00:00:01,346 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-08 00:00:01,346 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-08 00:00:01,348 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-08 00:00:01,348 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-08 00:00:13,190 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-08 00:00:13,190 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-08 00:00:13,192 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-08 00:00:13,192 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-08 00:04:43,008 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-08 00:04:43,008 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-08 00:04:43,009 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-08 00:04:43,010 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-08 00:05:11,486 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-08 00:05:11,487 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-08 00:05:11,489 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-08 00:05:11,489 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-08 00:06:19,793 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-08 00:06:19,794 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Tienda-Vaadin\Tienda-Vaadin\src\main\resources
+2016-09-08 00:06:19,795 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-08 00:06:19,795 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Tienda-Vaadin\Tienda-Vaadin\src\test\resources
+2016-09-08 00:06:20,867 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-08 00:06:20,868 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\main\resources
+2016-09-08 00:06:20,870 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-08 00:06:20,870 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Anotaciones\src\test\resources
+2016-09-08 00:06:28,743 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-08 00:06:28,744 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Tienda-Vaadin\Tienda-Vaadin\src\main\resources
+2016-09-08 00:06:28,745 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-08 00:06:28,746 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Tienda-Vaadin\Tienda-Vaadin\src\test\resources
+2016-09-08 00:07:35,767 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-08 00:07:35,768 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Descriptor\src\main\resources
+2016-09-08 00:07:35,771 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-08 00:07:35,771 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Descriptor\src\test\resources
+2016-09-08 00:07:49,460 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-08 00:07:49,460 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Descriptor\src\main\resources
+2016-09-08 00:07:49,462 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-08 00:07:49,462 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Maven Proyects\Framework-Ancho-Fijo-Descriptor\src\test\resources
+2016-09-08 00:08:48,584 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-08 00:08:48,592 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Tienda-Vaadin\Tienda-Vaadin\src\main\resources
+2016-09-08 00:08:48,595 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-08 00:08:48,595 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Tienda-Vaadin\Tienda-Vaadin\src\test\resources
+2016-09-08 00:09:42,413 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-08 00:09:42,413 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Tienda-Vaadin\Tienda-Vaadin\src\main\resources
+2016-09-08 00:09:42,415 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-08 00:09:42,416 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\xampp\htdocs\Proyects\Tienda-Vaadin\Tienda-Vaadin\src\test\resources

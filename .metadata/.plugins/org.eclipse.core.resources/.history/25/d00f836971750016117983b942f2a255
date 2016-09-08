@@ -1,0 +1,18 @@
+package co.edu.usa.adf.Datos;
+
+import java.util.Date;
+
+public class Venta {
+
+	private String facturaId;
+	private Date fecha;
+	private String productoId;
+	private int cantidadVendida;
+	private double precioUnitario;
+	
+	public Venta() {
+		
+	}
+	
+
+}
