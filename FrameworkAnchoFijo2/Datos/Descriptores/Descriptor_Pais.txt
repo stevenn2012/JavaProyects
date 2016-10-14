@@ -1,3 +1,0 @@
-co.edu.usa.adf.Pais
-Datos/Archivos/Paises.txt
-Paises.txt

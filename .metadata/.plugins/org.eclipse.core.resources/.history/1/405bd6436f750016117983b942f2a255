@@ -1,9 +1,0 @@
-package co.edu.usa.adf.Datos;
-
-public class Venta {
-
-	public Venta() {
-		// TODO Auto-generated constructor stub
-	}
-
-}

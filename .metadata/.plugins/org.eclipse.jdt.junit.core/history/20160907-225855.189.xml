@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="Pruebas_fanfia" project="Framework-Ancho-Fijo-Anotaciones" tests="1" started="1" failures="0" errors="0" ignored="0">
-  <testsuite name="co.edu.usa.adf.junit.Pruebas_fanfia" time="0.017">
-    <testcase name="pruebaValidarObjeto" classname="co.edu.usa.adf.junit.Pruebas_fanfia" time="0.017"/>
-  </testsuite>
-</testrun>

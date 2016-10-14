@@ -2,10 +2,12 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="co.edu.usa.adf"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="pruebaDrools"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -32,7 +34,7 @@
 		</list>
 	</section>
 	<section name="MavenProjectWizardArchetypePage">
-		<item value="All Catalogs" key="catalog"/>
+		<item value="https://repo1.maven.org/maven2/archetype-catalog.xml" key="catalog"/>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
 			<item value="[artifactId]-TRUNK"/>
@@ -42,10 +44,18 @@
 			<item value="[name]"/>
 		</list>
 	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.preferences.RemoteArchetypeCatalogDialog">
+		<list key="catalogUrl">
+			<item value="https://repo1.maven.org/maven2/archetype-catalog.xml"/>
+		</list>
+	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
-			<item value="C:\xampp\htdocs\Proyects\Tienda-Vaadin"/>
+			<item value="C:\xampp\htdocs\Proyects\Maven%20Proyects"/>
 			<item value="C:\xampp\htdocs\Proyects\Maven Proyects"/>
+			<item value="C:\play-2.5.8\bin\play-java\app\tomates\Passwords.java"/>
+			<item value="C:\xampp\htdocs\Proyects\JavaProyects\Telnet"/>
+			<item value="C:\xampp\htdocs\Proyects\Tienda-Vaadin"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -58,20 +68,10 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="co.edu.usa.adf.Tienda_Vaadin"/>
-			<item value="co.edu.usa.adf.Framework_Ancho_Fijo_Cero"/>
-			<item value="co.edu.usa.adf.Framework_Ancho_Fijo_Anotaciones"/>
-			<item value="co.usa.edu.adf"/>
 		</list>
 		<list key="groupId">
-			<item value="co.edu.usa.adf"/>
-			<item value="co.usa.edu.adf"/>
 		</list>
 		<list key="artifactId">
-			<item value="Tienda-Vaadin"/>
-			<item value="Framework-Ancho-Fijo-Cero"/>
-			<item value="Framework-Ancho-Fijo-Anotaciones"/>
-			<item value="Framework-Ancho-Fijo-Descriptor"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

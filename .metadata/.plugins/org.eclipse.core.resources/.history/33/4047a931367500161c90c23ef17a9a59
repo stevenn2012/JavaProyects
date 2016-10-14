@@ -1,9 +1,0 @@
-package co.edu.usa.adf.Framework_Ancho_Fijo_Descriptor;
-
-public class App {
-
-	public App() {
-		// TODO Auto-generated constructor stub
-	}
-
-}

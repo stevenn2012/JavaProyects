@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;controlador.java&apos; to &apos;Framework-Ancho-Fijo-Descriptor/src/main/java/co.edu.usa.adf.Framework_Ancho_Fijo_Descriptor&apos;&#x0D;&#x0A;- Original project: &apos;Framework-Ancho-Fijo-Anotaciones&apos;&#x0D;&#x0A;- Destination element: &apos;Framework-Ancho-Fijo-Descriptor/src/main/java/co.edu.usa.adf.Framework_Ancho_Fijo_Descriptor&apos;&#x0D;&#x0A;- Original element: &apos;co.edu.usa.adf.Framework_Ancho_Fijo_Anotaciones.controlador.java&apos;" description="Copy compilation unit" destination="=Framework-Ancho-Fijo-Descriptor/src\/main\/java&lt;co.edu.usa.adf.Framework_Ancho_Fijo_Descriptor" element1="/src\/main\/java&lt;co.edu.usa.adf.Framework_Ancho_Fijo_Anotaciones{controlador.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1473965560753" units="1" version="1.0"/>
+</session>

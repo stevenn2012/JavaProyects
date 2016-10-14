@@ -1,0 +1,72 @@
+package co.edu.usa.adf.TiendaVaadin;
+
+import com.vaadin.data.fieldgroup.BeanFieldGroup;
+import com.vaadin.event.ShortcutAction.KeyCode;
+import com.vaadin.server.FontAwesome;
+import com.vaadin.ui.Button;
+import com.vaadin.ui.FormLayout;
+import com.vaadin.ui.HorizontalLayout;
+import com.vaadin.ui.Label;
+import com.vaadin.ui.TextField;
+import com.vaadin.ui.VerticalLayout;
+import com.vaadin.ui.themes.ValoTheme;
+import co.edu.usa.adf.datos.Producto;
+
+public class ProductoForm extends FormLayout{
+	
+	private TextField productoId = new TextField("Identificacion");
+	private TextField nombre = new TextField("Nombre");
+	private TextField descripcion = new TextField("Descripcion");
+	private TextField precioUnitario = new TextField("Precio Unitario");
+	private TextField cantidadStock = new TextField("Cantidad en Stock");
+	private TextField rutaImagen = new TextField("Ruta de imagen");
+	
+	private Label titulo = new Label("Producto:");
+	private Button save = new Button(FontAwesome.CHECK);
+	private Button delete = new Button(FontAwesome.TIMES);
+	private Button agregar = new Button(FontAwesome.SHOPPING_CART);
+	
+	private ProductoService service = ProductoService.getInstance();
+	private Producto producto;
+	private MyUI myUI;
+	
+	public ProductoForm(MyUI myUI){
+		this.myUI=myUI;
+		
+		titulo.setStyleName(ValoTheme.LABEL_H1);
+		
+		//save.setStyleName(ValoTheme.BUTTON_PRIMARY);
+		save.setClickShortcut(KeyCode.ENTER);
+		
+		save.addClickListener(e -> save());
+		delete.addClickListener(e -> delete());
+		
+		setSizeUndefined();
+		
+		HorizontalLayout buttons = new HorizontalLayout(save, delete, agregar);
+		buttons.setSpacing(true);
+		
+		addComponents(titulo, productoId, nombre, descripcion, precioUnitario, cantidadStock, rutaImagen, buttons);
+	}
+	
+	public void setCustomer(Producto producto) {
+		this.producto = producto;
+		BeanFieldGroup.bindFieldsBuffered(producto, this);
+		delete.setVisible(producto.isPersisted());
+		setVisible(true);
+		nombre.selectAll();
+	}
+	
+	private void save(){
+		service.save(producto);
+		myUI.updateList();
+		setVisible(false);
+	}
+	
+	private void delete(){
+		service.delete(producto);
+		myUI.updateList();
+		setVisible(false);
+	}
+
+}
